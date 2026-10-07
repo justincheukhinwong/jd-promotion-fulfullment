@@ -1,0 +1,6 @@
+stage,n_orders,n_primary_skus
+All reconstructed orders,486928,8820
+1P-only orders,246912,326
+1P bundle-or-quantity orders,79875,254
+With nonmissing primary SKU,79875,254
+With valid JD Logistics delivery time,79102,254

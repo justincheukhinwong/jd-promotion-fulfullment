@@ -1,0 +1,14 @@
+setting,value
+data_dir,data/raw
+inventory_check_previous_day,True
+max_model_rows,
+model_fixed_effects,"brand_attribute_cell, order_date_str, order_hour, dc_des"
+cluster_variable,primary_sku
+strict_overlap_skus_found,18
+strict_overlap_threshold,20
+top_1_bundle_share,0.4541237113402062
+top_3_bundle_share,0.7425257731958763
+top_5_bundle_share,0.9002577319587629
+fe_tolerance,1e-08
+fe_max_iterations,200
+random_seed,20260727

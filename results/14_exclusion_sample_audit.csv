@@ -1,0 +1,4 @@
+sample,n_excluded_skus,n_orders,n_primary_skus,bundle_orders,quantity_orders,bundle_share_retained
+drop_top_1,1,78096,253,2118,75978,0.5458762886597938
+drop_top_3,3,76681,251,999,75682,0.2574742268041237
+drop_top_5,5,74844,249,387,74457,0.09974226804123712

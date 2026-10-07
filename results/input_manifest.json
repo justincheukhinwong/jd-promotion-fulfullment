@@ -1,0 +1,32 @@
+[
+  {
+    "input": "skus",
+    "path": "data/raw/JD_sku_data.csv",
+    "bytes": 1081700,
+    "sha256": "4414d338f328a9544cc31f17325f4d3328c6a4bbb6c935fbd1b96323602c43e9"
+  },
+  {
+    "input": "orders",
+    "path": "data/raw/JD_order_data.csv",
+    "bytes": 58858922,
+    "sha256": "ed7749ce2b6bd38afc872c020711baf315531860221e7a7c572e5bbfb9dfdccc"
+  },
+  {
+    "input": "delivery",
+    "path": "data/raw/JD_delivery_data.csv",
+    "bytes": 24631301,
+    "sha256": "a21d711b4a718429dd5b9f5fc654958cba751107208f025c9bc733ecbbb1fe65"
+  },
+  {
+    "input": "inventory",
+    "path": "data/raw/JD_inventory_data.csv",
+    "bytes": 3357497,
+    "sha256": "43d674598d3c99d173c4c357a642eec730e01857ec3038055b830d312224de27"
+  },
+  {
+    "input": "network",
+    "path": "data/raw/JD_network_data.csv",
+    "bytes": 297,
+    "sha256": "7a01913ad2ba8b797bf6e89a39e1551fbc2f1ef25051c97e018abef97bcfb32b"
+  }
+]

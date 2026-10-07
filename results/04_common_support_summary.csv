@@ -1,0 +1,9 @@
+measure,value
+Primary SKUs in bundle group,30
+Primary SKUs in quantity group,251
+Primary SKUs with any overlap,27
+Primary SKUs with strict overlap,18
+Bundle orders in any-overlap SKUs,3858
+Quantity orders in any-overlap SKUs,17286
+Orders in strict-overlap SKU sample,19997
+Delivery orders in strict-overlap SKU sample,19816

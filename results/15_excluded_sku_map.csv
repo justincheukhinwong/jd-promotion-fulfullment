@@ -1,0 +1,10 @@
+sample,excluded_bundle_rank,excluded_primary_sku
+drop_top_1,1,Product 006
+drop_top_3,1,Product 006
+drop_top_3,2,Product 096
+drop_top_3,3,Product 124
+drop_top_5,1,Product 006
+drop_top_5,2,Product 096
+drop_top_5,3,Product 124
+drop_top_5,4,Product 147
+drop_top_5,5,Product 031

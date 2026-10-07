@@ -1,0 +1,2 @@
+n_orders,n_primary_skus,share_1p_only,remote_order_rate,local_stockout_proxy_rate,jd_logistics_coverage,median_delivery_hours_jd
+486928,8820,0.5070811290375579,0.4745219005684619,0.6526597858893106,0.602150625965235,23.796666666666667
